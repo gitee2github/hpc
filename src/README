@@ -1,0 +1,7 @@
+This directory is used to store source code for HPC applications.
+
+The steps to create a directory for an example application lammps:
+1. mkdir src/lammps
+2. mkdir src/lammps/5jun2019
+3. mkdir src/lammps/5jun2019/origin
+4. mkdir src/lammps/5jun2019/patch
